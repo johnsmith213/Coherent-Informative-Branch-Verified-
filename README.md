@@ -4,3 +4,4 @@ The primary "parameter" for this branch is that it is not bound by its parameter
 Writing new parameters and information in a format compatible with the chosen (there is no chosen language yet) coding language is encouraged when doing so is practical.
 "Parameters" in this document are not confining. If you can refute any parameters, please do so in your pull requests. Pull requests that include information that does not follow this branch's "parameters" and includes information which refutes the "parameters" that are not followed will be considered for verification as though they are following this branch's "parameters."
 This branch can be migrated to a less refutable medium than GitHub if a less refutable medium is found.
+**If you would like to contribute to this repository, please email sam.wise4free@gmail.com
